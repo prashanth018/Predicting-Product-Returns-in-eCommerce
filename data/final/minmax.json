@@ -1,0 +1,50 @@
+{
+  "id": {
+    "min": 1,
+    "max": 401124
+  },
+  "profileId": {
+    "min": 0,
+    "max": 2687
+  },
+  "catRefId": {
+    "min": 0,
+    "max": 88
+  },
+  "productId": {
+    "min": 0,
+    "max": 87
+  },
+  "itemPrice": {
+    "min": 4.99,
+    "max": 299.99
+  },
+  "quantity": {
+    "min": 1,
+    "max": 8
+  },
+  "amount": {
+    "min": 4.99,
+    "max": 11999.4
+  },
+  "paymentType": {
+    "min": 0,
+    "max": 0
+  },
+  "shippingMethod": {
+    "min": 0,
+    "max": 2
+  },
+  "shippingCost": {
+    "min": 0,
+    "max": 35
+  },
+  "returnReason": {
+    "min": 0,
+    "max": 3
+  },
+  "returned": {
+    "min": 0,
+    "max": 1
+  }
+}
