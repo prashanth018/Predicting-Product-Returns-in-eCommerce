@@ -1,0 +1,24 @@
+{
+    "id": "o136",
+    "profileId": "se-1000",
+    "items": [
+      {
+        "quantity": 5,
+        "productId": "Product_18Cyii",
+        "catRefId": "Sku_18Dyii",
+        "price": 9.99
+      },
+      {
+        "quantity": 3,
+        "productId": "Product_12Cxy",
+        "catRefId": "Sku_12Dxy",
+        "price": 14.99
+      }
+    ],
+    "amount": 94.92,
+    "paymentType": "tokenizedCreditCard",
+    "shipping": {
+      "shippingMethod": "Overnight",
+      "price": 35
+    }
+}
