@@ -6,3 +6,5 @@ Project aims at assessing the likelihood of a product return in real-time while 
 The global retail e-commerce market size was valued at USD 4.25 trillion in 2019 and is expected to grow at a compound annual growth rate (CAGR) of 9.4% from 2020 to 2027. Studies have shown that about one-third of all e-commerce orders incur returns every year. With high return rates comes the problem of huge reverse logistic cost. Predicting customer return chances in advance during browsing or at shopping cart page will empower e-tailers to prevent such orders.
 
 
+## Functional Summary
+![plot](./obs/functional_overview.JPG)
