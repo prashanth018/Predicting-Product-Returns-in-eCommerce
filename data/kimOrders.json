@@ -1,0 +1,2552 @@
+{
+  "total": 47,
+  "totalResults": 47,
+  "offset": 0,
+  "limit": 250,
+  "links": [
+    {
+      "rel": "self",
+      "href": "http://localhost:8080/ccstoreui/v1/orders/"
+    }
+  ],
+  "items": [
+    {
+      "cost": 25,
+      "orderId": "o70432",
+      "lastModifiedDate": "2020-07-20T10:05:55.093Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 7.28,
+      "cartName": "o70432",
+      "subTotal": 65.97,
+      "creationDate": "2020-07-20T10:03:20.000Z",
+      "submittedDate": "2020-07-20T10:05:55.000Z",
+      "totalWithoutTax": 90.97,
+      "total": 98.25,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o40422",
+      "lastModifiedDate": "2020-07-20T05:12:50.722Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 11.6,
+      "cartName": "o40422",
+      "subTotal": 109.95,
+      "creationDate": "2020-03-22T12:28:36.000Z",
+      "submittedDate": "2020-07-20T05:04:01.000Z",
+      "totalWithoutTax": 144.95,
+      "total": 156.55,
+      "siteId": "siteUS",
+      "state": "NO_PENDING_ACTION",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Fulfilled",
+      "status": "Fulfilled"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10007",
+      "lastModifiedDate": "2020-07-15T12:28:37.245Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 0,
+      "cartName": null,
+      "subTotal": 29.97,
+      "creationDate": "2020-07-15T12:28:36.000Z",
+      "submittedDate": "2020-07-15T12:28:37.000Z",
+      "totalWithoutTax": 54.97,
+      "total": 54.97,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10041",
+      "lastModifiedDate": "2020-06-25T12:28:37.246Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4,
+      "cartName": null,
+      "subTotal": 49.95,
+      "creationDate": "2020-06-25T12:28:36.000Z",
+      "submittedDate": "2020-06-25T12:28:37.000Z",
+      "totalWithoutTax": 49.95,
+      "total": 53.95,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10042",
+      "lastModifiedDate": "2020-06-24T12:28:37.246Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 11.62,
+      "cartName": null,
+      "subTotal": 118,
+      "creationDate": "2020-06-24T12:28:36.000Z",
+      "submittedDate": "2020-06-24T12:28:37.000Z",
+      "totalWithoutTax": 145.2,
+      "total": 156.82,
+      "siteId": "siteUS",
+      "state": "NO_PENDING_ACTION",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Fulfilled",
+      "status": "Fulfilled"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10043",
+      "lastModifiedDate": "2020-06-23T12:28:37.246Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 10,
+      "cartName": null,
+      "subTotal": 89.98,
+      "creationDate": "2020-06-23T12:28:36.000Z",
+      "submittedDate": "2020-06-23T12:28:37.000Z",
+      "totalWithoutTax": 124.98,
+      "total": 134.98,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10044",
+      "lastModifiedDate": "2020-06-22T12:28:37.246Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 10.52,
+      "cartName": null,
+      "subTotal": 187.92,
+      "creationDate": "2020-06-22T12:28:36.000Z",
+      "submittedDate": "2020-06-22T12:28:37.000Z",
+      "totalWithoutTax": 131.54,
+      "total": 142.06,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10045",
+      "lastModifiedDate": "2020-06-21T12:28:37.246Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6.8,
+      "cartName": null,
+      "subTotal": 59.97,
+      "creationDate": "2020-06-21T12:28:36.000Z",
+      "submittedDate": "2020-06-21T12:28:37.000Z",
+      "totalWithoutTax": 84.97,
+      "total": 91.77,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 8.5,
+      "orderId": "o10046",
+      "lastModifiedDate": "2020-06-20T12:28:37.246Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 5.56,
+      "cartName": null,
+      "subTotal": 60.99,
+      "creationDate": "2020-06-20T12:28:36.000Z",
+      "submittedDate": "2020-06-20T12:28:37.000Z",
+      "totalWithoutTax": 69.49,
+      "total": 75.05,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10047",
+      "lastModifiedDate": "2020-06-19T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 3.04,
+      "cartName": null,
+      "subTotal": 37.97,
+      "creationDate": "2020-06-19T12:28:36.000Z",
+      "submittedDate": "2020-06-19T12:28:37.000Z",
+      "totalWithoutTax": 37.97,
+      "total": 41.01,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10048",
+      "lastModifiedDate": "2020-06-18T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4.62,
+      "cartName": null,
+      "subTotal": 24.98,
+      "creationDate": "2020-06-18T12:28:36.000Z",
+      "submittedDate": "2020-06-18T12:28:37.000Z",
+      "totalWithoutTax": 57.98,
+      "total": 62.6,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10049",
+      "lastModifiedDate": "2020-06-15T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 9.2,
+      "cartName": null,
+      "subTotal": 79.98,
+      "creationDate": "2020-06-15T12:28:36.000Z",
+      "submittedDate": "2020-06-15T12:28:37.000Z",
+      "totalWithoutTax": 114.98,
+      "total": 124.18,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10050",
+      "lastModifiedDate": "2020-06-14T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 5.84,
+      "cartName": null,
+      "subTotal": 49.95,
+      "creationDate": "2020-06-14T12:28:36.000Z",
+      "submittedDate": "2020-06-14T12:28:37.000Z",
+      "totalWithoutTax": 72.95,
+      "total": 78.79,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10051",
+      "lastModifiedDate": "2020-06-13T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 3.2,
+      "cartName": null,
+      "subTotal": 15,
+      "creationDate": "2020-06-13T12:28:36.000Z",
+      "submittedDate": "2020-06-13T12:28:37.000Z",
+      "totalWithoutTax": 40,
+      "total": 43.2,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10052",
+      "lastModifiedDate": "2020-06-12T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4.72,
+      "cartName": null,
+      "subTotal": 59,
+      "creationDate": "2020-06-12T12:28:36.000Z",
+      "submittedDate": "2020-06-12T12:28:37.000Z",
+      "totalWithoutTax": 59,
+      "total": 63.72,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10053",
+      "lastModifiedDate": "2020-06-11T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4.96,
+      "cartName": null,
+      "subTotal": 36.98,
+      "creationDate": "2020-06-11T12:28:36.000Z",
+      "submittedDate": "2020-06-11T12:28:37.000Z",
+      "totalWithoutTax": 61.98,
+      "total": 66.94,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10054",
+      "lastModifiedDate": "2020-06-10T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 9.98,
+      "cartName": null,
+      "subTotal": 104.93,
+      "creationDate": "2020-06-10T12:28:36.000Z",
+      "submittedDate": "2020-06-10T12:28:37.000Z",
+      "totalWithoutTax": 124.68,
+      "total": 134.66,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 45,
+      "orderId": "o10055",
+      "lastModifiedDate": "2020-06-09T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 15,
+      "cartName": null,
+      "subTotal": 149.93,
+      "creationDate": "2020-06-09T12:28:36.000Z",
+      "submittedDate": "2020-06-09T12:28:37.000Z",
+      "totalWithoutTax": 187.43,
+      "total": 202.43,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10056",
+      "lastModifiedDate": "2020-06-08T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 12.4,
+      "cartName": null,
+      "subTotal": 119.97,
+      "creationDate": "2020-06-08T12:28:36.000Z",
+      "submittedDate": "2020-06-08T12:28:37.000Z",
+      "totalWithoutTax": 154.97,
+      "total": 167.37,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10057",
+      "lastModifiedDate": "2020-06-07T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 3.6,
+      "cartName": null,
+      "subTotal": 19.99,
+      "creationDate": "2020-06-07T12:28:36.000Z",
+      "submittedDate": "2020-06-07T12:28:37.000Z",
+      "totalWithoutTax": 44.99,
+      "total": 48.59,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10058",
+      "lastModifiedDate": "2020-06-06T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4,
+      "cartName": null,
+      "subTotal": 49.95,
+      "creationDate": "2020-06-06T12:28:36.000Z",
+      "submittedDate": "2020-06-06T12:28:37.000Z",
+      "totalWithoutTax": 49.95,
+      "total": 53.95,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10059",
+      "lastModifiedDate": "2020-06-05T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 9.08,
+      "cartName": null,
+      "subTotal": 78.46,
+      "creationDate": "2020-06-05T12:28:36.000Z",
+      "submittedDate": "2020-06-05T12:28:37.000Z",
+      "totalWithoutTax": 113.46,
+      "total": 122.54,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10060",
+      "lastModifiedDate": "2020-06-04T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 8.4,
+      "cartName": null,
+      "subTotal": 79.96,
+      "creationDate": "2020-06-04T12:28:36.000Z",
+      "submittedDate": "2020-06-04T12:28:37.000Z",
+      "totalWithoutTax": 104.96,
+      "total": 113.36,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10061",
+      "lastModifiedDate": "2020-06-03T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 11.98,
+      "cartName": null,
+      "subTotal": 279.92,
+      "creationDate": "2020-06-03T12:28:36.000Z",
+      "submittedDate": "2020-06-03T12:28:37.000Z",
+      "totalWithoutTax": 149.81,
+      "total": 161.79,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10062",
+      "lastModifiedDate": "2020-06-02T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 14,
+      "cartName": null,
+      "subTotal": 139.95,
+      "creationDate": "2020-06-02T12:28:36.000Z",
+      "submittedDate": "2020-06-02T12:28:37.000Z",
+      "totalWithoutTax": 174.95,
+      "total": 188.95,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 45,
+      "orderId": "o10063",
+      "lastModifiedDate": "2020-06-01T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 12.2,
+      "cartName": null,
+      "subTotal": 115,
+      "creationDate": "2020-06-01T12:28:36.000Z",
+      "submittedDate": "2020-06-01T12:28:37.000Z",
+      "totalWithoutTax": 152.35,
+      "total": 164.55,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10064",
+      "lastModifiedDate": "2020-05-31T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6,
+      "cartName": null,
+      "subTotal": 49.99,
+      "creationDate": "2020-05-31T12:28:36.000Z",
+      "submittedDate": "2020-05-31T12:28:37.000Z",
+      "totalWithoutTax": 74.99,
+      "total": 80.99,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 8.5,
+      "orderId": "o10065",
+      "lastModifiedDate": "2020-05-30T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6.28,
+      "cartName": null,
+      "subTotal": 69.9,
+      "creationDate": "2020-05-30T12:28:36.000Z",
+      "submittedDate": "2020-05-30T12:28:37.000Z",
+      "totalWithoutTax": 78.4,
+      "total": 84.68,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10066",
+      "lastModifiedDate": "2020-05-29T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 9.88,
+      "cartName": null,
+      "subTotal": 98.48,
+      "creationDate": "2020-05-29T12:28:36.000Z",
+      "submittedDate": "2020-05-29T12:28:37.000Z",
+      "totalWithoutTax": 123.48,
+      "total": 133.36,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10067",
+      "lastModifiedDate": "2020-05-28T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 2,
+      "cartName": null,
+      "subTotal": 24.98,
+      "creationDate": "2020-05-28T12:28:36.000Z",
+      "submittedDate": "2020-05-28T12:28:37.000Z",
+      "totalWithoutTax": 24.98,
+      "total": 26.98,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10068",
+      "lastModifiedDate": "2020-05-27T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 14.58,
+      "cartName": null,
+      "subTotal": 154.92,
+      "creationDate": "2020-05-27T12:28:36.000Z",
+      "submittedDate": "2020-05-27T12:28:37.000Z",
+      "totalWithoutTax": 182.17,
+      "total": 196.75,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10069",
+      "lastModifiedDate": "2020-05-26T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6.8,
+      "cartName": null,
+      "subTotal": 50,
+      "creationDate": "2020-05-26T12:28:36.000Z",
+      "submittedDate": "2020-05-26T12:28:37.000Z",
+      "totalWithoutTax": 85,
+      "total": 91.8,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10070",
+      "lastModifiedDate": "2020-05-25T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4.64,
+      "cartName": null,
+      "subTotal": 59.97,
+      "creationDate": "2020-05-25T12:28:36.000Z",
+      "submittedDate": "2020-05-25T12:28:37.000Z",
+      "totalWithoutTax": 57.97,
+      "total": 62.61,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10071",
+      "lastModifiedDate": "2020-05-24T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6.8,
+      "cartName": null,
+      "subTotal": 59.98,
+      "creationDate": "2020-05-24T12:28:36.000Z",
+      "submittedDate": "2020-05-24T12:28:37.000Z",
+      "totalWithoutTax": 84.98,
+      "total": 91.78,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o10072",
+      "lastModifiedDate": "2020-05-23T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 10,
+      "cartName": null,
+      "subTotal": 89.98,
+      "creationDate": "2020-05-23T12:28:36.000Z",
+      "submittedDate": "2020-05-23T12:28:37.000Z",
+      "totalWithoutTax": 124.98,
+      "total": 134.98,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10073",
+      "lastModifiedDate": "2020-05-22T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 10.52,
+      "cartName": null,
+      "subTotal": 187.92,
+      "creationDate": "2020-05-22T12:28:36.000Z",
+      "submittedDate": "2020-05-22T12:28:37.000Z",
+      "totalWithoutTax": 131.54,
+      "total": 142.06,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10074",
+      "lastModifiedDate": "2020-05-21T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 5.2,
+      "cartName": null,
+      "subTotal": 39.96,
+      "creationDate": "2020-05-21T12:28:36.000Z",
+      "submittedDate": "2020-05-21T12:28:37.000Z",
+      "totalWithoutTax": 64.96,
+      "total": 70.16,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10075",
+      "lastModifiedDate": "2020-05-20T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 3.84,
+      "cartName": null,
+      "subTotal": 24.99,
+      "creationDate": "2020-05-20T12:28:36.000Z",
+      "submittedDate": "2020-05-20T12:28:37.000Z",
+      "totalWithoutTax": 47.99,
+      "total": 51.83,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 4.5,
+      "orderId": "o10076",
+      "lastModifiedDate": "2020-05-19T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 3.56,
+      "cartName": null,
+      "subTotal": 39.98,
+      "creationDate": "2020-05-19T12:28:36.000Z",
+      "submittedDate": "2020-05-19T12:28:37.000Z",
+      "totalWithoutTax": 44.48,
+      "total": 48.04,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10077",
+      "lastModifiedDate": "2020-05-18T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4.4,
+      "cartName": null,
+      "subTotal": 29.97,
+      "creationDate": "2020-05-18T12:28:36.000Z",
+      "submittedDate": "2020-05-18T12:28:37.000Z",
+      "totalWithoutTax": 54.97,
+      "total": 59.37,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10078",
+      "lastModifiedDate": "2020-05-17T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6,
+      "cartName": null,
+      "subTotal": 49.98,
+      "creationDate": "2020-05-17T12:28:36.000Z",
+      "submittedDate": "2020-05-17T12:28:37.000Z",
+      "totalWithoutTax": 74.98,
+      "total": 80.98,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10079",
+      "lastModifiedDate": "2020-05-16T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 1.6,
+      "cartName": null,
+      "subTotal": 19.96,
+      "creationDate": "2020-05-16T12:28:36.000Z",
+      "submittedDate": "2020-05-16T12:28:37.000Z",
+      "totalWithoutTax": 19.96,
+      "total": 21.56,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 0,
+      "orderId": "o10080",
+      "lastModifiedDate": "2020-05-15T12:28:37.247Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 4,
+      "cartName": null,
+      "subTotal": 50,
+      "creationDate": "2020-05-15T12:28:36.000Z",
+      "submittedDate": "2020-05-15T12:28:37.000Z",
+      "totalWithoutTax": 50,
+      "total": 54,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10401",
+      "lastModifiedDate": "2020-03-27T12:28:37.248Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 6.25,
+      "cartName": null,
+      "subTotal": 75,
+      "creationDate": "2020-03-27T12:28:36.000Z",
+      "submittedDate": "2020-03-27T12:28:37.000Z",
+      "totalWithoutTax": 100,
+      "total": 106.25,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o10406",
+      "lastModifiedDate": "2020-03-26T12:28:37.248Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 3.43,
+      "cartName": null,
+      "subTotal": 29.97,
+      "creationDate": "2020-03-26T12:28:36.000Z",
+      "submittedDate": "2020-03-26T12:28:37.000Z",
+      "totalWithoutTax": 54.97,
+      "total": 58.4,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 35,
+      "orderId": "o30411",
+      "lastModifiedDate": "2020-03-25T12:28:37.248Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 11.6,
+      "cartName": "o30411",
+      "subTotal": 109.95,
+      "creationDate": "2020-03-25T12:28:36.000Z",
+      "submittedDate": "2020-03-25T12:28:37.000Z",
+      "totalWithoutTax": 144.95,
+      "total": 156.55,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    },
+    {
+      "cost": 25,
+      "orderId": "o40411",
+      "lastModifiedDate": "2020-03-23T12:28:37.248Z",
+      "allowAlternateCurrency": false,
+      "approvalSystemMessages": [],
+      "dynamicProperties": [],
+      "shippingSurchargeValue": 0,
+      "priceListGroup": {
+        "isTaxIncluded": false,
+        "endDate": null,
+        "displayName": "Default Price Group",
+        "listPriceList": {
+          "repositoryId": "listPrices"
+        },
+        "active": true,
+        "isPointsBased": false,
+        "locale": "en_US",
+        "shippingSurchargePriceList": {
+          "repositoryId": "shippingSurchargePrices"
+        },
+        "deleted": false,
+        "taxCalculationType": null,
+        "repositoryId": "defaultPriceGroup",
+        "salePriceList": {
+          "repositoryId": "salePrices"
+        },
+        "currency": {
+          "currencyType": null,
+          "symbol": "$",
+          "deleted": false,
+          "displayName": "US Dollar",
+          "repositoryId": "en_US",
+          "fractionalDigits": 2,
+          "currencyCode": "USD",
+          "numericCode": "840"
+        },
+        "id": "defaultPriceGroup",
+        "includeAllProducts": true,
+        "startDate": null
+      },
+      "tax": 7.28,
+      "cartName": "o40411",
+      "subTotal": 65.97,
+      "creationDate": "2020-03-23T12:28:36.000Z",
+      "submittedDate": "2020-03-23T12:28:37.000Z",
+      "totalWithoutTax": 90.97,
+      "total": 98.25,
+      "siteId": "siteUS",
+      "state": "SUBMITTED",
+      "currencyCode": "USD",
+      "stateDetailsAsUser": "Submitted to fulfillment",
+      "status": "Submitted to fulfillment"
+    }
+  ]
+}
